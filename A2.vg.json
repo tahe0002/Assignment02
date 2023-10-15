@@ -5,7 +5,7 @@
     "align": "each",
     "concat": [
         {
-            "title": "Happiness World Map",
+            "title": "Happiness World Map (2023)",
             "width": 500,
             "height": 250,
             "data": {
@@ -116,7 +116,7 @@
         {
             "width": 400,
             "height": 250,
-            "title": "World Happiness",
+            "title": "World Happiness (2023)",
             "data": {
                 "url": "WHR_2023.csv"
             },
@@ -421,7 +421,7 @@
         {
             "width": 400,
             "height": 200,
-            "title": "Average GDP per Capita by Region",
+            "title": "Average GDP per Capita by Region (2023)",
             "data": {
                 "url": "WHR_2023.csv"
             },
